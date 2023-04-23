@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/verjinv2" target="blank"><img src="https://img.shields.io/twitter/follow/verjinv2?logo=twitter&style=for-the-badge" alt="verjinv2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/verjin-dev?tab=repositories](https://github.com/verjin-dev?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/verjin-dev?tab=repositories)
 
 - 📫 How to reach me **thephoenixboy@pm.me**
 
